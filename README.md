@@ -22,7 +22,7 @@ I am a results-oriented professional with 4+ years of experience in the real est
 
 ### 📂 Key Projects
 
-#### [SleepTracker Bot](ссылка_на_репозиторий_1)
+#### [SleepTracker Bot](https://github.com/sonyapjrv/SleepTracker-Bot)
 *Automated Data Collection & Processing Pipeline*
 - Developed a Telegram bot for sleep consultants to collect raw client data.
 - Built a pipeline to transfer data to Google Sheets via API, transforming "raw" logs into structured daily reports.
