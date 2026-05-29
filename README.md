@@ -16,6 +16,10 @@ I am a results-oriented professional with 4+ years of experience in the real est
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-EA4335?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+- **Automation:** Google Sheets API, Telegram Bot API (Aiogram/Telebot)
+- **Data Visualization:** Google Data Studio, Matplotlib
+- **Soft Skills:** Business Process Optimization, Risk Assessment (Mortgage Brokerage), Quality Control Management
+
 ### 📂 Key Projects
 
 #### [SleepTracker Bot](ссылка_на_репозиторий_1)
