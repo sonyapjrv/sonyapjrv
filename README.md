@@ -9,12 +9,12 @@ I am a results-oriented professional with 4+ years of experience in the real est
 - 🚀 **The Pivot:** After processing massive datasets manually in Excel and CRM systems, I transitioned to Python and SQL to automate workflows and extract deeper insights.
 - 🛠️ **Current Focus:** Building data pipelines, automating business processes via Telegram bots, and practicing statistical analysis for real estate markets.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Database:** SQL (PostgreSQL), CRM Analytics (Bitrix24/amoCRM/MacroCRM)
-- **Automation:** Google Sheets API, Telegram Bot API (Aiogram/Telebot)
-- **Data Visualization:** Google Data Studio, Matplotlib
-- **Soft Skills:** Business Process Optimization, Risk Assessment (Mortgage Brokerage), Quality Control Management
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-EA4335?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ### 📂 Key Projects
 
