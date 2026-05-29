@@ -28,7 +28,7 @@ I am a results-oriented professional with 4+ years of experience in the real est
 - Built a pipeline to transfer data to Google Sheets via API, transforming "raw" logs into structured daily reports.
 - **Tools:** Python, Google Sheets API.
 
-#### [Real Estate Market & Mortgage Analysis](ссылка_на_репозиторий_2)
+#### [Real Estate Market & Mortgage Analysis](https://github.com/sonyapjrv/Housing-Affordability-Analysis)
 *Statistical Research based on BA Thesis (NSU)*
 - Analyzed a dataset of 500+ mortgage cases to identify factors affecting bank approval rates.
 - Performed EDA (Exploratory Data Analysis) and visualized correlations between income levels and credit scores.
