@@ -43,6 +43,6 @@ I am a results-oriented professional with 4+ years of experience in the real est
 ---
 
 ### 📫 Connect with me:
-- **Telegram:** @[sonyapjrv]
-- **Email:** [sonyapjrv@gmail.com]
-- **Location:** Novosibirsk (NSU Campus)
+- **Telegram:** @sonyapjrv
+- **Email:** sonyapjrv@gmail.com
+- **Location:** Novosibirsk (Academgorodok)
