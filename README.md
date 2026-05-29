@@ -16,7 +16,7 @@ I am a results-oriented professional with 4+ years of experience in the real est
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-EA4335?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-- **Automation:** Google Sheets API, Telegram Bot API (Aiogram/Telebot)
+- **Automation:** Google Sheets API, Telegram Bot API (Aiogram/Telebot), 
 - **Data Visualization:** Google Data Studio, Matplotlib
 - **Soft Skills:** Business Process Optimization, Risk Assessment (Mortgage Brokerage), Quality Control Management
 
@@ -26,7 +26,7 @@ I am a results-oriented professional with 4+ years of experience in the real est
 *Automated Data Collection & Processing Pipeline*
 - Developed a Telegram bot for sleep consultants to collect raw client data.
 - Built a pipeline to transfer data to Google Sheets via API, transforming "raw" logs into structured daily reports.
-- **Tools:** Python, Google Sheets API.
+- **Tools:** Python, Google Sheets API? Gemini API, N8N
 
 #### [Real Estate Market & Mortgage Analysis](https://github.com/sonyapjrv/Housing-Affordability-Analysis)
 *Statistical Research based on BA Thesis (NSU)*
