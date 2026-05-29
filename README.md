@@ -34,7 +34,7 @@ I am a results-oriented professional with 4+ years of experience in the real est
 - Performed EDA (Exploratory Data Analysis) and visualized correlations between income levels and credit scores.
 - **Tools:** Python (Pandas, Seaborn), Statistics.
 
-#### [Sales Funnel Architecture](ссылка_на_репозиторий_3)
+#### [Sales Funnel Architecture](https://github.com/sonyapjrv/CRM-Sales-Analytics-SQL)
 *Data-driven Quality Control System*
 - Designed the logic for a CRM-based monitoring system for 30+ brokers.
 - Developed SQL-based reporting structures to track conversion rates (Lead-to-Deal) and sales team efficiency.
